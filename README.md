@@ -25,4 +25,7 @@ Test out your runnable jar file bying using command `java -jar netid.jar`
 The last line should contain your name.
 upload your jar file into your home folder and create a symboliclink link file named as "netid".jar as well under /home/gliu5/homework/hw2/jars
 
+How to create symbolic link? simply google it.
+Note that late homework will not be accepted.
+
 
